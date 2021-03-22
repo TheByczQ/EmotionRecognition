@@ -17,3 +17,6 @@ Aplikacja rozpoznaje 7 emocji:
 * facial-emotion-recognition
 * fer (Facial expression recognition)
 * face-recognition 1.3.0
+
+# Licencja
+Ten projekt jest objęty licencją MIT - szczegółowe informacje można znaleźć w pliku [LICENSE](https://github.com/TheByczQ/EmotionRecognition/blob/main/LICENSE).
