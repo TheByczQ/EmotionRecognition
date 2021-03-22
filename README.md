@@ -1,5 +1,14 @@
 # EmotionRecognition 
-Jest to aplikacja służąca do wykrywania emocji. Instnieje możliwość rozpoznawania emocji zarówno na zdjęciach wczytanych z komputera jak i "na żywo" z obrazu z kamerki internetowej. Użytkownik może również wybrać bibliotekę za pomocą której dokonywane jest rozpoznawanie emocji tj. biblioteki fer oraz facial-emotion-recognition.
+Jest to aplikacja służąca do wykrywania emocji. Instnieje możliwość rozpoznawania emocji zarówno na zdjęciach wczytanych z komputera jak i "na żywo" z obrazu z kamerki internetowej. Użytkownik może również wybrać bibliotekę za pomocą której dokonywane jest rozpoznawanie emocji tj. biblioteki fer oraz facial-emotion-recognition. 
+
+Aplikacja rozpoznaje 7 emocji: 
+* neutralność, 
+* zaszkoczenie, 
+* obrzydzenie, 
+* smutek,
+* radość, 
+* złość, 
+* strach.
 
 # Technologie:
 * Python
